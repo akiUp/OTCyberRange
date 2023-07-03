@@ -1,0 +1,6 @@
+10
+lvl,0,0,false,0,InputRegisterUInt16,100
+flow,0,0,false,0,InputRegisterUInt16,101
+alrm1,0,0,false,0,Coil,803
+discvlv,0,0,false,0,HoldingRegisterUInt16,100
+fillvlv,0,0,false,0,HoldingRegisterUInt16,101
